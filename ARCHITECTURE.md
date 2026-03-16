@@ -1,10 +1,10 @@
 🏥 NaviMed Navigator Architecture
-1. System Overview
+**1. System Overview**
 
 NaviMed Navigator is a specialized RAG-based AI agent designed to provide reliable, patient-aware assistance. The system ensures high-fidelity information retrieval from sensitive medical documents.
 
 
-2. Core Architecture Stack
+**2. Core Architecture Stack**
 
     Frontend- Possible React + Vite (for high performance) + Tailwind CSS (for rapid, accessible UI styling).
 
@@ -17,7 +17,7 @@ NaviMed Navigator is a specialized RAG-based AI agent designed to provide reliab
     Reasoning Engine- An LLM tuned for medical domain accuracy, utilizing RAG to minimize hallucinations.
 
 
-3. Integrated Tools & External Systems
+**3. Integrated Tools & External Systems**
 
 The following outlines how NaviMed Navigator bridges the gap between raw data and clinical insights:
 
@@ -34,7 +34,7 @@ API Connectors ->	FHIR / REST APIs -> Integration with EHR systems (Electronic H
 Auth/Security	-> Clerk / OAuth	-> Ensuring HIPAA-compliant access (where applicable).
 
 
-4. Data Flow Logic
+**4. Data Flow Logic**
 
 NaviMed Navigator follows a strictly controlled workflow:
 
