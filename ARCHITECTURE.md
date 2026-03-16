@@ -9,13 +9,13 @@ NaviMed Navigator is a specialized RAG-based AI agent designed to provide reliab
 
     Agent Orchestrator- Manages state, conversation memory, and tool-invocation logic.
 
-    Retrieval Pipeline- * Embedding Model: Converts medical terminology into vector space.
+    Retrieval Pipeline- Embedding Model -> Converts medical terminology into vector space.
 
         Vector Database- Stores clinical documents/guidelines for semantic search.
 
     Reasoning Engine- An LLM tuned for medical domain accuracy, utilizing RAG to minimize hallucinations.
 
-3. Integrated Tools & External Systems
+4. Integrated Tools & External Systems
 
 The following outlines how NaviMed Navigator bridges the gap between raw data and clinical insights:
 
