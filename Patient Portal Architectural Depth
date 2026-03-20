@@ -4,21 +4,22 @@
 
 ## Table of Contents
 
-- [1) Executive Summary](#1-executive-summary)
-- [2) End-to-End Workflow](#2-end-to-end-workflow)
-- [3) System Architecture (Tree)](#3-system-architecture-tree)
-- [4) AI Agent Workflow (Dynamic)](#4-ai-agent-workflow-dynamic)
-- [5) AI Agent Architecture (Structural)](#5-ai-agent-architecture-structural)
-- [6) Tools and Integrations](#6-tools-and-integrations)
-- [7) Event-Driven Backbone](#7-event-driven-backbone)
-- [8) Security, Governance, and Ethics](#8-security-governance-and-ethics)
-- [9) Metrics and Outcomes](#9-metrics-and-outcomes)
-- [10) Implementation Roadmap](#10-implementation-roadmap)
-- [11) Optional: Intelligence and Reasoning Design](#11-optional-intelligence-and-reasoning-design)
-
+- [1) Summary]
+- [2) End-to-End Workflow]
+- [3) System Architecture]
+- [4) AI Agent Workflow (Dynamic)]
+- [5) AI Agent Architecture]
+- [6) Tools and Integrations]
+- [7) Event-Driven Backbone]
+- [8) Security, Governance, and Ethics]
+- [9) Metrics and Outcomes]
+- [10) Implementation Roadmap]
+- [11) Tools and Integrations]
+- [12) Intelligence and Reasoning Design]
+- [13) Governance and Ethics]
 ---
 
-## 1) Executive Summary
+## 1) Summary
 
 The platform combines AI-guided scheduling, day-of travel support, waiting-room intake, provider summary generation, post-visit surveys, and future follow-up reminders to improve access, efficiency, and continuity of care.
 
