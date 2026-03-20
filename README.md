@@ -10,7 +10,7 @@ NaviMed is a patient-centric "App" platform that replaces static health dashboar
 
     Logistics Orchestration: Integrated algorithms for automated calendar management and transportation assistance.
 
-    Contextual UI: A state-driven dashboard (React/Tailwind) that surfaces high-priority cards (QR check-ins, meal ordering, transit alerts) based on real-time patient data.
+    Contextual UI: A state-driven dashboard that surfaces high-priority requests (QR check-ins, meal ordering, transit alerts) based on real-time patient data.
 
     Data Integrity: Architected for high-integrity data pipelines to ensure secure and accurate medical information delivery.
 
